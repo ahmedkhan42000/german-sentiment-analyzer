@@ -4,6 +4,7 @@ A Natural Language Processing project that analyzes the sentiment
 of German text using a pre-trained BERT model from HuggingFace.
 
 ## Results
+![App Screenshot](app_screenshot.png)
 ![Sentiment Analysis](sentiment_analysis.png)
 
 ## What this project does
